@@ -1,3 +1,7 @@
+<script setup lang="ts">
+  import FormCalculator from '../components/FormCalculator.vue'
+</script>
+
 <template>
-  <div>Тут что-то будет!</div>
+  <FormCalculator />
 </template>
